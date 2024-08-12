@@ -1,11 +1,7 @@
 import React from "react";
 import Navigation from '../components/Nav/navbar';
 import Jumbotron from "../components/Jumbotron/jumbotron";
-import WhyDev from "../components/Content/why";
-import Skill from "../components/Content/skill";
-import Mentor from "../components/Content/mentor";
-import Review from "../components/Review/review";
-import Footer from "../components/Footer/footer";
+import Post from "../components/Content/post";
 
 const Home = () => {
 
@@ -13,11 +9,7 @@ const Home = () => {
         <>
         <Navigation/>
         <Jumbotron/>
-        <WhyDev/>
-        <Skill/>
-        <Mentor/>
-        <Review/>
-        <Footer/>
+        <Post/>
         </>
     );
 };
