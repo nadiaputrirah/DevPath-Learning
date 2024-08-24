@@ -18,7 +18,7 @@ export default function Alur() {
         <div>
         <Navigation/>
         <section>
-        <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6 mt-20">
+            <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6 mt-20">
                 <div className="w-full mb-8 lg:mb-16 text-center">
                     <h2 className="mb-4 text-[#273147] text-4xl font-bold mx-auto">
                         Jelajahi Alur Belajar Anda
